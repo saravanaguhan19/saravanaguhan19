@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saravanaguhan19
 - 👀 I’m interested in building and breaking stuff.
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning MERN stack 
 - 💞️ I’m looking to collaborate as a Frontend developer
 - 📫 Reach me  on mail saravanaguhan19@gmail.com
 
